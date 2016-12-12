@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollectingHibernate/la2-hlim1421_SQLDataCollectingHibernate.iml" filepath="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollectingHibernate/la2-hlim1421_SQLDataCollectingHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2-hlim1421_ParentProject.iml" filepath="$PROJECT_DIR$/lab2-hlim1421_ParentProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/lab2-hlim1421_SQLDataCollecting.iml" filepath="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/lab2-hlim1421_SQLDataCollecting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/lab2-hlim1421_SQLDataHibernate.iml" filepath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/lab2-hlim1421_SQLDataHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/lab2-hlim1421_SQLListingGUI.iml" filepath="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/lab2-hlim1421_SQLListingGUI.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SQLDataHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/SQLHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/edu.ubb.cs.idde.lab2-hlim1421_SQLHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2hlim1421_SQLHibernate/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

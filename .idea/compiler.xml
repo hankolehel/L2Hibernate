@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab2-hlim1421_SQLDataCollecting" />
+        <module name="lab2-hlim1421_SQLListingGUI" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lab2-hlim1421_ParentProject" target="1.5" />
+      <module name="lab2-hlim1421_SQLDataCollecting" target="1.5" />
+      <module name="lab2-hlim1421_SQLListingGUI" target="1.5" />
+      <module name="lab2hlim1421_SQLHibernate" target="1.5" />
+      <module name="SQLHibernate" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

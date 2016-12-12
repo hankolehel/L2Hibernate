@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jandex-2.0.0.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollectingHibernate/lib/jandex-2.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollectingHibernate/lib/hibernate-core-5.2.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
