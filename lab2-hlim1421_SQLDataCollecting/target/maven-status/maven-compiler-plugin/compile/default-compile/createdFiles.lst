@@ -1,0 +1,8 @@
+edu\ubb\cs\idde\SQLDataCollecting\DAO\JDBC\JDBCDAOFactory.class
+edu\ubb\cs\idde\SQLDataCollecting\DAO\JDBC\Connector.class
+edu\ubb\cs\idde\SQLDataCollecting\DAO\DAOFactory.class
+edu\ubb\cs\idde\SQLDataCollectingHibernate\Model\CarData.class
+org\lab2\hlim1421_SQLDataCollecting\App.class
+edu\ubb\cs\idde\SQLDataCollecting\DAO\GenericDAO.class
+edu\ubb\cs\idde\SQLDataCollecting\DAO\CarDAO.class
+edu\ubb\cs\idde\SQLDataCollecting\DAO\JDBC\JDBCCarDAO.class

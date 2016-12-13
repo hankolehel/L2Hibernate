@@ -1,0 +1,7 @@
+edu\ubb\cs\idde\SQLHibernate\DAO\DAOFactory.class
+edu\ubb\cs\idde\SQLHibernate\DAO\GenericDAO.class
+edu\ubb\cs\idde\SQLHibernate\DAO\JDBC\JDBCCarDAO.class
+edu\ubb\cs\idde\SQLHibernate\DAO\JDBC\JDBCDAOFactory.class
+edu\ubb\cs\idde\SQLHibernate\DAO\CarDAO.class
+edu\ubb\cs\idde\SQLHibernate\model\CarsEntity.class
+runner\main.class

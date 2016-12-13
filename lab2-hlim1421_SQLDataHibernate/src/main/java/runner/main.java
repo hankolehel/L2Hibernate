@@ -12,17 +12,19 @@ import java.util.HashMap;
 import java.util.List;
 
 public class main {
-    public static final String SELECT_QUERY = "select brand from CarsEntity where brand = 'Vw'";
+
+    public static final String SELECT_QUERY = "SELECT c FROM CarsEntity c";
 
     public static void main(String[] args){
         PersistenceProvider persistenceProvider = new HibernatePersistenceProvider();
         EntityManagerFactory entityManagerFactory = persistenceProvider.createEntityManagerFactory("NewPersistenceUnit",new HashMap());
         EntityManager entityManager = entityManagerFactory.createEntityManager();
         List<CarsEntity> cars = entityManager.createQuery(
-                "SELECT c FROM CarsEntity c ")
+                SELECT_QUERY)
                 //.setParameter("custName", "Vw")
                 .getResultList();
         System.out.println(cars);
+        entityManager.close();
         entityManager.close();
     }
 

@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lab2-hlim1421_SQLDataCollecting" />
+        <module name="lab2-hlim1421_SQLDataHibernate" />
         <module name="lab2-hlim1421_SQLListingGUI" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lab2-hlim1421_ParentProject" target="1.5" />
       <module name="lab2-hlim1421_SQLDataCollecting" target="1.5" />
+      <module name="lab2-hlim1421_SQLDataHibernate" target="1.5" />
       <module name="lab2-hlim1421_SQLListingGUI" target="1.5" />
       <module name="lab2hlim1421_SQLHibernate" target="1.5" />
       <module name="SQLHibernate" target="1.5" />

@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="4" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="296195b8-3d29-4ac3-8628-92531c58dc90" name="Default" comment="" />
+    <list default="true" id="296195b8-3d29-4ac3-8628-92531c58dc90" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/JPA_2_0_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_6_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_hibernate_hibernate_entitymanager_5_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_hibernate_hibernate_validator_5_3_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Draft_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCDAOFactory.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_ParentProject.iml" afterPath="$PROJECT_DIR$/lab2-hlim1421_ParentProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/lab2-hlim1421_SQLDataCollecting.iml" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/lab2-hlim1421_SQLDataCollecting.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/pom.xml" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/.idea/workspace.xml" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/lab2-hlim1421_SQLDataHibernate.iml" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/lab2-hlim1421_SQLDataHibernate.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/pom.xml" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/App.java" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/App.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCCarDAO.java" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCCarDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/runner/main.java" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/runner/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/lab2-hlim1421_SQLListingGUI.iml" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/lab2-hlim1421_SQLListingGUI.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/pom.xml" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/edu/ubb/cs/idde/SQLListingGUI/GUIElements/MyJFrame.java" afterPath="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/edu/ubb/cs/idde/SQLListingGUI/GUIElements/MyJFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/target/" />
     <ignored path="$PROJECT_DIR$/edu.ubb.cs.idde.lab2-hlim1421_SQLHibernate/target/" />
     <ignored path="$PROJECT_DIR$/SQLHibernate/target/" />
     <ignored path="$PROJECT_DIR$/lab2hlim1421_SQLHibernate/target/" />
+    <ignored path="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,42 +83,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MyJFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/edu/ubb/cs/idde/SQLListingGUI/GUIElements/MyJFrame.java">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/main/main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/pom.xml">
+      <file leaf-file-name="JDBCDAOFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCDAOFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="242">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#307#308#0" expanded="false" />
+                <element signature="e#346#347#0" expanded="false" />
+                <element signature="e#393#394#0" expanded="false" />
+                <element signature="e#432#433#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".project" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/.project">
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/test/java/org/lab2/hlim1421_SQLListingGUI/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarsEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/model/CarsEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="308">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#359#360#0" expanded="false" />
+                <element signature="e#392#393#0" expanded="false" />
+                <element signature="e#493#494#0" expanded="false" />
+                <element signature="e#546#547#0" expanded="false" />
+                <element signature="e#621#622#0" expanded="false" />
+                <element signature="e#655#656#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,8 +130,56 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="748">
+              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="67" column="31" lean-forward="false" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/ubb/cs/idde/lab2_hlim1421_ParentProject/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#371#372#0" expanded="false" />
+                <element signature="e#404#405#0" expanded="false" />
+                <element signature="e#505#506#0" expanded="false" />
+                <element signature="e#558#559#0" expanded="false" />
+                <element signature="e#633#634#0" expanded="false" />
+                <element signature="e#667#668#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JDBCCarDAO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCCarDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/META-INF/persistence.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -112,55 +188,19 @@
       <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/resources/META-INF/persistence.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/runner/main.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="761">
-              <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JDBCCarDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCCarDAO.java">
+      <file leaf-file-name="CarsEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/model/CarsEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="352">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -181,7 +221,15 @@
       <find>provider</find>
       <find>SqlDataHi</find>
       <find>Collect</find>
+      <find>test</find>
+      <find>da</find>
+      <find>packaging</find>
+      <find>lab2-hlim1421_SQLDataHibernate</find>
+      <find>mysql</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -191,11 +239,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollectingHibernate/src/models/CarsEntity.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e07ade59-fb33-4537-bea4-3c9a5cd54af6/console.sql" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_HibernateDataCollection/src/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollectingHibernate/src/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/test/src/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/test/src/models/CarsEntity.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/main/edu/ubb/cs/idde/SQLDataCollecting/DAO/JDBC/Connector.java" />
@@ -221,27 +264,32 @@
         <option value="$PROJECT_DIR$/SQLDataHibernate/src/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/SQLDataHibernate/src/main/models/CarsEntity.java" />
         <option value="$PROJECT_DIR$/SQLDataHibernate/src/main/App.java" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/pom.xml" />
         <option value="$PROJECT_DIR$/SQLDataHibernate/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLDataCollecting/DAO/JDBC/JDBCDAOFactory.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLDataCollectingHibernate/Model/CarData.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLDataCollectingHibernate/model/CarsEntity.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLDataCollecting/DAO/GenericDAO.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLDataCollecting/DAO/DAOFactory.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLDataCollecting/DAO/CarDAO.java" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/pom.xml" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/pom.xml" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/model/CarsEntity.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/GenericDAO.java" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/DAOFactory.java" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCDAOFactory.java" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCCarDAO.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/CarDAO.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/.project" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/edu/ubb/cs/idde/SQLListingGUI/GUIElements/MyJFrame.java" />
+        <option value="/JPA QL Fragment (JDBCCarDAO.java:1000).ql" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/META-INF/persistence.xml" />
+        <option value="/JPA QL Fragment (JDBCCarDAO.java:1001).ql" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/.classpath" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCDAOFactory.java" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/DAOFactory.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/App.java" />
         <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/runner/main.java" />
-        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/edu/ubb/cs/idde/SQLListingGUI/GUIElements/MyJFrame.java" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCCarDAO.java" />
       </list>
     </option>
   </component>
@@ -270,7 +318,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>JpaEntityListenerInspection</id>
+            <id>JpaQlInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -303,6 +351,460 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLListingGUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLListingGUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLListingGUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLListingGUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLListingGUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idde" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SQLListingGUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUIElements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="runner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idde" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SQLHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idde" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SQLHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_ParentProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab2-hlim1421_SQLDataHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ubb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idde" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SQLHibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JDBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -313,7 +815,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../node/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="G:\INFO\node\node.exe" />
@@ -328,10 +830,23 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.27941176" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\INFO\III ev\I felev\lab2-hlim1421_ParentProject\lab2hlim1421_SQLHibernate\src\main\resources\edu\ubb\cs\idde\common" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+      <recent name="main.models" />
+      <recent name="models" />
+      <recent name="main.edu.ubb.cs.idde.SQLDataCollectingHibernate.Model" />
+      <recent name="edu.ubb.cs.idde.SQLDataCollectingHibernate.Model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.ubb.cs.idde.SQLHibernate.DAO.JDBC" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="main.java.edu.ubb.cs.idde.SQLDataCollectingHibernate.model" />
       <recent name="models" />
@@ -343,18 +858,8 @@
       <recent name="G:\INFO\III ev\I felev\lab2-hlim1421_ParentProject\lab2hlim1421_SQLHibernate\src\main\resources" />
       <recent name="G:\INFO\III ev\I felev\lab2-hlim1421_ParentProject\lab2-hlim1421_SQLDataCollectingHibernate\src\edu\ubb\cs\idde\SQLDataCollectingHibernate\DAO" />
     </key>
-    <key name="ImportMappingsDialog.RecentPackages">
-      <recent name="" />
-      <recent name="main.models" />
-      <recent name="models" />
-      <recent name="main.edu.ubb.cs.idde.SQLDataCollectingHibernate.Model" />
-      <recent name="edu.ubb.cs.idde.SQLDataCollectingHibernate.Model" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\INFO\III ev\I felev\lab2-hlim1421_ParentProject\lab2hlim1421_SQLHibernate\src\main\resources\edu\ubb\cs\idde\common" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.DATACOLLECTION">
+  <component name="RunManager" selected="Application.main (1)">
     <configuration default="false" name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -362,7 +867,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="main.main" />
+      <option name="MAIN_CLASS_NAME" value="runner.main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -412,6 +917,26 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lab2-hlim1421_SQLListingGUI" />
       <envs />
       <method />
     </configuration>
@@ -810,17 +1335,19 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.DATACOLLECTION" />
       <item index="1" class="java.lang.String" itemvalue="Application.main" />
       <item index="2" class="java.lang.String" itemvalue="Application.App (1)" />
       <item index="3" class="java.lang.String" itemvalue="Application.App (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.main (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.App (2)" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.main (1)" />
         <item index="1" class="java.lang.String" itemvalue="Application.main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.App (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.App (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.App (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -847,41 +1374,44 @@
       <workItem from="1481546926308" duration="8104000" />
       <workItem from="1481556594980" duration="5120000" />
       <workItem from="1481565574001" duration="849000" />
-      <workItem from="1481566587398" duration="1028000" />
+      <workItem from="1481566587398" duration="1991000" />
+      <workItem from="1481568602837" duration="2702000" />
+      <workItem from="1481572066552" duration="8072000" />
+      <workItem from="1481634077737" duration="3996000" />
+      <workItem from="1481639647680" duration="1869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42101000" />
+    <option name="totallyTimeSpent" value="59703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2751982" sideWeight="0.16380237" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24597207" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3510759" sideWeight="0.89312565" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19365798" sideWeight="0.8361976" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30804077" sideWeight="0.74919444" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28878823" sideWeight="0.7497315" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24113856" sideWeight="0.76517755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5107411" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28878823" sideWeight="0.698174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.48925886" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24436091" sideWeight="0.76517755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04189044" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3510759" sideWeight="0.88936627" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25725028" sideWeight="0.29218572" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hibernate Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27180067" sideWeight="0.4935553" order="7" side_tool="false" content_ui="tabs" />
@@ -889,12 +1419,13 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="JPA Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.7438238" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.49785176" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5222222" sideWeight="0.23482245" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.49785176" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -905,7 +1436,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -914,45 +1445,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollectingHibernate/src/edu/ubb/cs/idde/SQLDataCollectingHibernate/DAO/CarDAO.java" />
-    <entry file="jar://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollectingHibernate/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/EntityManager.class" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/main/edu/ubb/cs/idde/SQLDataCollecting/DAO/GenericDAO.java" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/main/edu/ubb/cs/idde/SQLDataCollecting/DAO/DAOFactory.java" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/main/edu/ubb/cs/idde/SQLDataCollecting/DAO/CarDAO.java" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/main/edu/ubb/cs/idde/SQLDataCollecting/DAO/JDBC/JDBCDAOFactory.java" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/main/edu/ubb/cs/idde/SQLDataCollecting/DAO/JDBC/Connector.java" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/main/edu/ubb/cs/idde/SQLDataCollecting/DAO/JDBC/JDBCCarDAO.java" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/main/edu/ubb/cs/idde/SQLDataCollectingHibernate/Model/CarsEntity.java" />
-    <entry file="uml://Persistence/JavaeeElement:/8fe3cde/persistenceUnit/lab2-hlim1421-SQLHibernate/jpa/JPA/PersistenceModel">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Persistence</ID>
-          <OriginalElement>JavaeeElement:/8fe3cde/persistenceUnit/lab2-hlim1421-SQLHibernate/jpa/JPA/PersistenceModel</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-235.0" y="63.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Embeddables</Category>
-            <Category>Properties</Category>
-            <Category>Superclasses</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421-SQLHibernate/src/META-INF/persistence.xml" />
-    <entry file="file://$PROJECT_DIR$/edu.ubb.cs.idde.lab2-hlim1421_SQLHibernate/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/SQLHibernate/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/lab2hlim1421_SQLHibernate/src/main/resources/com.mykong.common/Stock.hbm.xml" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/src/main/java/edu/ubb/cs/idde/SQLDataCollectingHibernate/Model/CarData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab2hlim1421_SQLHibernate/pom.xml" />
     <entry file="file://$PROJECT_DIR$/lab2hlim1421_SQLHibernate/src/main/resources/Cars.hbm.xml" />
     <entry file="uml://JAVA/edu.ubb.cs.idde">
@@ -1020,13 +1512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/models/CarsEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1034,23 +1519,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/main/main.java">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/Connector.java" />
+    <entry file="file://$PROJECT_DIR$/.classpath">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#145#146#0" expanded="false" />
-            <element signature="e#189#190#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/Connector.java" />
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/pom.xml">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_ParentProject.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="308">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1064,124 +1558,235 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/GenericDAO.java">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/.project">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/DAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/.classpath">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/src/main/java/edu/ubb/cs/idde/SQLDataCollectingHibernate/Model/CarData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/CarDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCDAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/lab2-hlim1421_SQLDataHibernate.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCCarDAO.java">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/.project">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/model/CarsEntity.java">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/.classpath">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="88">
+          <caret line="4" column="78" lean-forward="false" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.3.6.Final/hibernate-core-4.3.6.Final.jar!/org/hibernate/cfg/annotations/EntityBinder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="721" column="0" lean-forward="false" selection-start-line="721" selection-start-column="0" selection-end-line="721" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/GenericDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/runner/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="263">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/edu/ubb/cs/idde/SQLListingGUI/GUIElements/MyJFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/lab2-hlim1421_SQLDataCollecting.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="-66">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/resources/META-INF/persistence.xml">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataCollecting/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="-48">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="660">
+          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/.project">
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/test/java/org/lab2/hlim1421_SQLListingGUI/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#493#494#0" expanded="false" />
+            <element signature="e#546#547#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#655#656#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/ubb/cs/idde/lab2_hlim1421_ParentProject/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#371#372#0" expanded="false" />
+            <element signature="e#404#405#0" expanded="false" />
+            <element signature="e#505#506#0" expanded="false" />
+            <element signature="e#558#559#0" expanded="false" />
+            <element signature="e#633#634#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLListingGUI/src/main/java/main/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/model/CarsEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCDAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#432#433#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="67" column="31" lean-forward="false" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-hlim1421_SQLDataHibernate/src/main/java/edu/ubb/cs/idde/SQLHibernate/DAO/JDBC/JDBCCarDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1243,6 +1848,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1262,11 +1868,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>org.hibernate:hibernate-entitymanager:5.2.5.Final</last-edited>
+          <last-edited>Maven: org.jboss:jandex:2.0.3.Final</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.515625" />
               </list>
             </option>
           </splitter-proportions>

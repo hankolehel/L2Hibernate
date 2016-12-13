@@ -12,16 +12,13 @@ import java.util.ResourceBundle;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
-
-
 //import edu.ubb.cs.idde.SQLDataHibernate.DAO.DAOFactory;
 
-import edu.ubb.cs.idde.SQLDataCollecting.DAO.CarDAO;
-import edu.ubb.cs.idde.SQLDataCollecting.DAO.DAOFactory;
-import edu.ubb.cs.idde.SQLDataCollectingHibernate.Model.CarData;
+import edu.ubb.cs.idde.SQLHibernate.model.CarsEntity;
+import edu.ubb.cs.idde.SQLHibernate.DAO.CarDAO;
+import edu.ubb.cs.idde.SQLHibernate.DAO.DAOFactory;
 
 public class MyJFrame extends JFrame implements ActionListener {
-
 	private static final long serialVersionUID = 1L;
 	private String[] availableLanguages = {"English", "Hungarian", "Bosnian"};
 	private JComboBox boxOfLanguages = new JComboBox();
@@ -59,9 +56,6 @@ public class MyJFrame extends JFrame implements ActionListener {
 		
 		this.setMinimumSize(new Dimension(600, 400));
 
-		
-		
-
 
 		btnPanel = new MyJPanel(0,0,200,200,1);
 		//btnPanel.add(b1);
@@ -81,7 +75,6 @@ public class MyJFrame extends JFrame implements ActionListener {
 		container.add(boxPanel);
 
 		this.add(container);
-
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setVisible(true);
 	}
@@ -93,7 +86,7 @@ public class MyJFrame extends JFrame implements ActionListener {
 	        language = ResourceBundle.getBundle("lang", locales[((JComboBox) e.getSource()).getSelectedIndex()]);
 		}
 		CarDAO mySQL = DAOFactory.getInstance().getCarDAO();
-		List<CarData> cars = mySQL.getAllCars();
+		List<CarsEntity> cars = mySQL.getAllCars();
 
 		String[] colNames = {
 				language.getString("brand"), 
@@ -107,9 +100,13 @@ public class MyJFrame extends JFrame implements ActionListener {
 		table.setModel(model);
 		
 		for(int i = 0; i < cars.size(); i++){
-			model.addRow(new Object[] {cars.get(i).getBrand(), cars.get(i).getModel(), cars.get(i).getFabYear(), cars.get(i).getCilCap()});
+			model.addRow(new Object[] {
+					cars.get(i).getBrand(),
+					cars.get(i).getModel(),
+					cars.get(i).getFabricationYear(),
+					cars.get(i).getCilinderCapacity()});
 		}
-		
+
 		
 	}
 
